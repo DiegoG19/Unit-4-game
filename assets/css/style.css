@@ -25,6 +25,11 @@ h1{
     background-color: mediumspringgreen;
     float: left;
     margin: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: blueviolet;
+
 }
 .Wins-Loss-Counter{
     width: 10%;
@@ -35,4 +40,5 @@ h1{
 .userTotal{
     width: 20%;
     background-color: teal;
+    color: white;
 }
