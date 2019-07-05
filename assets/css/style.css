@@ -1,0 +1,38 @@
+header{
+    background-color: orange;
+    width: 25%;
+    height: 60px;
+    margin: 10px;
+    text-align: center 
+}
+body{
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: auto;
+}
+h1{
+    color: white;
+}
+.main-container{
+ background-color: antiquewhite;
+ width: 35%;
+ margin: 10px;
+ color: green;
+}
+.random-number{
+    width: 15%;
+    background-color: mediumspringgreen;
+    float: left;
+    margin: 10px;
+}
+.Wins-Loss-Counter{
+    width: 10%;
+    background-color: aqua;
+    float: left;
+    margin: 10px;
+}
+.userTotal{
+    width: 20%;
+    background-color: teal;
+}
